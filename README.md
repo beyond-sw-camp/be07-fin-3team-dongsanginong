@@ -10,4 +10,4 @@
 또한 라이브 커머스 기능 통해 소비자에게는 재미있는 컨텐츠와 농산물에 대한 자세한 설명을, 농장에게는 효과적으로 마케팅할 수 있는 기회를 제공하고자 합니다.
 
 ## 요구 사항 명세서
-[📝요구 사항 명세 보기](https://quark-smile-890.notion.site/38f9d7df97da41d0886c90cd95224ce2?pvs=4)
+[📝요구 사항 명세 보기](https://quark-smile-890.notion.site/2b8b00aecbba447b970c7908a93fc79f?v=7147478c4da24e92acf2953eb02ae777&pvs=4)

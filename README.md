@@ -9,5 +9,17 @@
   
 또한 라이브 커머스 기능 통해 소비자에게는 재미있는 컨텐츠와 농산물에 대한 자세한 설명을, 농장에게는 효과적으로 마케팅할 수 있는 기회를 제공하고자 합니다.
 
+---
+
 ## 요구 사항 명세서
 [📝요구 사항 명세 보기](https://quark-smile-890.notion.site/2b8b00aecbba447b970c7908a93fc79f?v=7147478c4da24e92acf2953eb02ae777&pvs=4)
+
+---
+## WBS
+[🗓️WBS 보기](https://docs.google.com/spreadsheets/d/1WE7JiiPJ6AdVeDdM6F6V6v_KpRaB3TVqzRiomrheFI0/edit?gid=0#gid=0)
+
+---
+## ERD
+![dongsanginong-erd](https://github.com/user-attachments/assets/a2dba445-44e0-4ef4-afc8-32f5b776a46e)
+
+

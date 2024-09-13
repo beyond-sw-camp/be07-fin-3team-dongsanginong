@@ -20,6 +20,7 @@
 
 ---
 ## ERD
+[☁️ERD CLOUD 바로가기](https://www.erdcloud.com/d/AgNZCZGaBx6NE8JhL)
 ![dongsanginong-erd](https://github.com/user-attachments/assets/a2dba445-44e0-4ef4-afc8-32f5b776a46e)
 
 

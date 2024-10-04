@@ -24,3 +24,7 @@
 ![dongsanginong-erd](https://github.com/user-attachments/assets/a2dba445-44e0-4ef4-afc8-32f5b776a46e)
 
 
+---
+## 프로그램사양서
+
+[API 명세서 보기](https://documenter.getpostman.com/view/37325338/2sAXxLDEqJ#9c2ba4c5-6901-44e7-ad72-8bc8495ab8e0)
